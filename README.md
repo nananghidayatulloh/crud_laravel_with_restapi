@@ -13,6 +13,7 @@ DB_DATABASE=db_laravel_shop
 DB_USERNAME=root
 DB_PASSWORD=
 
+-   composer install
 -   php artisan config:clear
 -   php artisan route:cache
 -   php artisan migrate
